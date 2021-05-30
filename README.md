@@ -35,7 +35,7 @@ git init
 git add * .gitignore
 git commit -m'first commit'
 git branch -M main
-git remote add origin https://github.com/eunseokang/your-project-name.git
+git remote add origin https://github.com/EunseoKang514/your-project-name.git
 git push -u origin main
 ```
 
